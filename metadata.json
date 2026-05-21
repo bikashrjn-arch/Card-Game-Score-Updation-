@@ -1,0 +1,6 @@
+{
+  "name": "Card Scorekeeper",
+  "description": "Premium scorekeeper companion for physical playing card games like Hearts and Spades, with real-time scoring helpers, custom rule enforcements, round insights, and game history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
